@@ -44,14 +44,15 @@ The Difficulty argument allows you to select a difficulty level (a predetermined
     Formidable = ddddd
 
 Lastely, the Symbols argument can be used to add additional symbols to your dice pool. The following three-letter abbreviations are used: 
-	suc = Success
-	fai = Failure
-	adv = Advantage
-	thr = Threat
-	tri = Triumph
-	des = Despair
-	blk = Dark
-	wht = Light
+   
+    suc = Success
+    fai = Failure
+    adv = Advantage
+    thr = Threat
+    tri = Triumph
+    des = Despair
+    blk = Dark
+    wht = Light
 
 Finally, to roll 2 ability dice, 1 boost die, and a D12 at Easy difficulty upgraded twice, with a triumph added, you could use either of the following:
 
